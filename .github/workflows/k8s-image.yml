@@ -37,6 +37,6 @@ jobs:
           AI_USER_PASSWORD: ${{ secrets.AI_USER_PASSWORD }}
         run: |
           chmod +x ./image-syncer
-          ./image-syncer  --auth=./auth.json --images=./k8s.json --retries=3
+          ./image-syncer  --records=./ --auth=./auth.json --images=./k8s.json --retries=3
       - name: Run a one-line script
         run: ls -l
