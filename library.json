@@ -1,5 +1,7 @@
 
 {
+    
+    "docker.io/library/solr": "registry.cn-hangzhou.aliyuncs.com/all_lib/solr",
     "docker.io/library/maven": "registry.cn-hangzhou.aliyuncs.com/all_lib/maven",
     "docker.io/library/tomcat": "registry.cn-hangzhou.aliyuncs.com/all_lib/tomcat",
     "docker.io/library/nginx": "registry.cn-hangzhou.aliyuncs.com/all_lib/nginx",
@@ -17,5 +19,7 @@
     "docker.io/library/elasticsearch": "registry.cn-hangzhou.aliyuncs.com/all_lib/elasticsearch",
     "docker.io/library/kibana": "registry.cn-hangzhou.aliyuncs.com/all_lib/kibana",
     "docker.io/nacos/nacos-server": "registry.cn-hangzhou.aliyuncs.com/all_lib/nacos-server",
-    "docker.io/casbin/casdoor": "registry.cn-hangzhou.aliyuncs.com/all_lib/casdoor"
+    "docker.io/casbin/casdoor": "registry.cn-hangzhou.aliyuncs.com/all_lib/casdoor",
+    "docker.io/library/zookeeper": "registry.cn-hangzhou.aliyuncs.com/all_lib/zookeeper",
+    "docker.io/grafana/grafana": "registry.cn-hangzhou.aliyuncs.com/all_lib/grafana"
 }
