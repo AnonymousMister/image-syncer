@@ -1,6 +1,6 @@
 
 {
-    
+
     "docker.io/library/solr": "registry.cn-hangzhou.aliyuncs.com/all_lib/solr",
     "docker.io/library/maven": "registry.cn-hangzhou.aliyuncs.com/all_lib/maven",
     "docker.io/library/tomcat": "registry.cn-hangzhou.aliyuncs.com/all_lib/tomcat",

@@ -29,7 +29,7 @@ jobs:
           AI_USER_NAME: ${{ secrets.AI_USER_NAME }}
           AI_USER_PASSWORD: ${{ secrets.AI_USER_PASSWORD }}
         run: |
-          chmod +x ./image-syncer
-          ./image-syncer --auth=./auth.json --images=./library.json
+          chmod +x ./tools-liunx
+          ./tools-liunx image-syncer --auth=./auth.json --images=./library.json --proc=9
       - name: Run a one-line script
         run: ls -l
