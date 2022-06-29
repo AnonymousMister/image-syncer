@@ -14,5 +14,5 @@
     "docker.io/library/gradle": "registry.cn-hangzhou.aliyuncs.com/all_lib/gradle",
     "docker.io/library/node": "registry.cn-hangzhou.aliyuncs.com/all_lib/node",
     "docker.io/library/golang": "registry.cn-hangzhou.aliyuncs.com/all_lib/golang",
-    "docker.io/nacos/nacos-server": "registry.cn-hangzhou.aliyuncs.com/all_lib/nacos-server",
+    "docker.io/nacos/nacos-server": "registry.cn-hangzhou.aliyuncs.com/all_lib/nacos-server"
 }
