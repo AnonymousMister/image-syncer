@@ -30,6 +30,6 @@ jobs:
           AI_USER_PASSWORD: ${{ secrets.AI_USER_PASSWORD }}
         run: |
           chmod +x ./tools-liunx
-          ./tools-liunx image-syncer --auth=./auth.json --images=./library.json --proc=9
+          ./tools-liunx image-syncer --auth=./auth.json --images=./library.json --proc=5
       - name: Run a one-line script
         run: ls -l
