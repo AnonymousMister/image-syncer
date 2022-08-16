@@ -1,0 +1,4 @@
+
+{
+    "docker.io/library/node:node:14.20.0-buster,14.19.3-buster,14.19.2-buster,14.19.1-buster": "registry.cn-hangzhou.aliyuncs.com/all_lib/node"
+}
