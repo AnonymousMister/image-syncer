@@ -1,4 +1,4 @@
 
 {
-    "docker.io/wumingq/*": "registry.cn-hangzhou.aliyuncs.com/wumingq/*"
+    "eu.gcr.io/gitpod-core-dev/build/local-preview": "registry.cn-hangzhou.aliyuncs.com/wumingq/local-preview"
 }
