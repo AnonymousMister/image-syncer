@@ -1,4 +1,4 @@
 
 {
-    "docker.io/library/node:18.0.0-alpine,14.20.1-alpine3.15": "registry.cn-hangzhou.aliyuncs.com/all_lib/node"
+    "docker.io/library/node:18.0.0-buster": "registry.cn-hangzhou.aliyuncs.com/all_lib/node"
 }
