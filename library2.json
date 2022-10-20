@@ -1,4 +1,4 @@
 
 {
-    "docker.io/gitlab/gitlab-ce:13.1.11-ce.0,13.8.8-ce.0,13.12.15-ce.0,14.0.12-ce.0": "registry.cn-hangzhou.aliyuncs.com/all_lib/gitlab-ce"
+    "docker.io/gitlab/gitlab-ce:13.1.11-ce.0,13.8.8-ce.0,13.12.15-ce.0,14.0.12-ce.0,14.3.6-ce.0,14.9.5-ce.0,14.10.5-ce.0,15.0.5-ce.0,15.4.3-ce.0": "registry.cn-hangzhou.aliyuncs.com/all_lib/gitlab-ce"
 }
