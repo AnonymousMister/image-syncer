@@ -1,4 +1,4 @@
 
 {
-    "docker.io/library/eclipse-temurin:8u345-b01-jdk-jammy": "registry.cn-hangzhou.aliyuncs.com/all_lib/eclipse-temurin"
+    "docker.io/library/eclipse-temurin": "registry.cn-hangzhou.aliyuncs.com/all_lib/eclipse-temurin"
 }
