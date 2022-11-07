@@ -1,4 +1,4 @@
 
 {
-    "docker.io/wiznote/wizserver:latest": "registry.cn-hangzhou.aliyuncs.com/all_lib/wizserver:2022-11-2"
+    "docker.io/seataio/seata-server":"registry.cn-hangzhou.aliyuncs.com/all_lib/seata-server"
 }
