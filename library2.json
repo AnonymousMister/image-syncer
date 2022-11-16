@@ -1,4 +1,4 @@
 
 {
-    "docker.io/seataio/seata-server":"registry.cn-hangzhou.aliyuncs.com/all_lib/seata-server"
+    "docker.io/uulap/nattunnel:latest":"registry.cn-hangzhou.aliyuncs.com/all_lib/synchronization:1.0"
 }
