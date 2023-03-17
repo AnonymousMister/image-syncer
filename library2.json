@@ -1,4 +1,7 @@
 
 {
-    "docker.io/uulap/nattunnel:latest":"registry.cn-hangzhou.aliyuncs.com/all_lib/synchronization:1.0"
+    "docker.io/library/maven:3.9.0-eclipse-temurin-17":"registry.cn-hangzhou.aliyuncs.com/all_lib/maven:3.9.0-eclipse-temurin-17",
+    "docker.io/library/eclipse-temurin:17.0.6_10-jre-jammy":"registry.cn-hangzhou.aliyuncs.com/all_lib/eclipse-temurin:17.0.6_10-jre-jammy",
+    "docker.io/library/eclipse-temurin:17.0.6_10-jdk-jammy":"registry.cn-hangzhou.aliyuncs.com/all_lib/eclipse-temurin:17.0.6_10-jdk-jammy",
+    "docker.io/library/node:18.15.0-alpine3.17":"registry.cn-hangzhou.aliyuncs.com/all_lib/node:18.15.0-alpine3.17"
 }
