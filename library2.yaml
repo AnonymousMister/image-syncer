@@ -1,5 +1,6 @@
-docker.io/library/maven: registry.cn-shanghai.aliyuncs.com/all_lib/maven
-docker.io/library/eclipse-temurin: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
-docker.io/library/gradle: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
-docker.io/library/nginx: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
-docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
+#docker.io/library/maven: registry.cn-shanghai.aliyuncs.com/all_lib/maven
+#docker.io/library/eclipse-temurin: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
+#docker.io/library/gradle: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
+#docker.io/library/nginx: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
+#docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
+docker.io/gitlab/gitlab-ce: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
