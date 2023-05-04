@@ -1,7 +1,7 @@
 #docker.io/library/maven: registry.cn-shanghai.aliyuncs.com/all_lib/maven
-#docker.io/library/eclipse-temurin: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
+docker.io/library/eclipse-temurin:8u372-b07-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
 #docker.io/library/gradle: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 #docker.io/library/nginx: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
 #docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 #docker.io/gitlab/gitlab-ce:15.4.6-ce.0,15.10.1-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
-docker.io/library/gradle:8.0.2-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
+#docker.io/library/gradle:8.0.2-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
