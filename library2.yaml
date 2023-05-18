@@ -3,5 +3,5 @@
 #docker.io/library/gradle: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 #docker.io/library/nginx:1.23.4-bullseye-perl: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
 #docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
-docker.io/gitlab/gitlab-ce:15.11.2-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
+docker.io/gitlab/gitlab-ce:15.11.4-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 #docker.io/library/gradle:8.0.2-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
