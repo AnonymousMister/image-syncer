@@ -15,4 +15,4 @@
 
 #docker.io/library/gradle:8.2.0-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 
-docker.io/library/python:3.10.12-bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/python
+docker.io/library/python:3.10.12-slim-bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/python
