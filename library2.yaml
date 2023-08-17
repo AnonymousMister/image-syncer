@@ -11,8 +11,12 @@
 
 #docker.io/nacos/nacos-server:v2.2.3: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 
-docker.io/gitlab/gitlab-ce:15.11.13-ce.0,16.2.3-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
+#docker.io/gitlab/gitlab-ce:15.11.13-ce.0,16.2.3-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 
 #docker.io/library/gradle:8.2.0-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 
 #docker.io/library/python:3.10.12-slim-bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/python
+
+docker.io/library/golang:1.20.7-alpine3.18: registry.cn-shanghai.aliyuncs.com/all_lib/golang
+
+docker.io/library/alpine:3.18: registry.cn-shanghai.aliyuncs.com/all_lib/alpine
