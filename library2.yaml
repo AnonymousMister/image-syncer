@@ -1,7 +1,7 @@
 
 #registry.cn-hangzhou.aliyuncs.com/wumingq/apache-maven:3.6.3-oraclejdk8: registry.cn-shanghai.aliyuncs.com/all_lib/maven
 
-#docker.io/library/maven:3.9.0-eclipse-temurin-17: registry.cn-shanghai.aliyuncs.com/all_lib/maven
+docker.io/library/maven:3.9.3-eclipse-temurin-17,3.8.7-eclipse-temurin-17: registry.cn-shanghai.aliyuncs.com/all_lib/maven
 
 #docker.io/library/eclipse-temurin:17.0.8_7-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
 
@@ -22,4 +22,4 @@
 #docker.io/library/alpine:3.18: registry.cn-shanghai.aliyuncs.com/all_lib/alpine
 
 
-docker.io/library/redis:7.2.0,7.0.0: registry.cn-shanghai.aliyuncs.com/all_lib/redis
+#docker.io/library/redis:7.2.0,7.0.0: registry.cn-shanghai.aliyuncs.com/all_lib/redis
