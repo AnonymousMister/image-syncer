@@ -3,9 +3,9 @@
 
 #docker.io/library/maven:3.9.3-eclipse-temurin-17,3.8.7-eclipse-temurin-17: registry.cn-shanghai.aliyuncs.com/all_lib/maven
 
-docker.io/library/eclipse-temurin:17.0.8.1_1-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
+#docker.io/library/eclipse-temurin:17.0.8.1_1-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
 
-#docker.io/library/nginx:1.25.2-bookworm: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
+docker.io/library/nginx:1.23.3-alpine-slim: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
 
 #docker.io/library/node:14.5.0-buster: registry.cn-shanghai.aliyuncs.com/all_lib/node
 
