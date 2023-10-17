@@ -13,7 +13,7 @@
 
 #docker.io/gitlab/gitlab-ce:16.3.4-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 
-docker.io/adguard/adguardhome: registry.cn-shanghai.aliyuncs.com/all_lib/adguardhome
+docker.io/adguard/adguardhome:v0.108.0-b.47: registry.cn-shanghai.aliyuncs.com/all_lib/adguardhome
 
 #docker.io/library/gradle:8.2.0-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 
