@@ -3,7 +3,7 @@
 
 #docker.io/library/maven:3.9.3-eclipse-temurin-17,3.8.7-eclipse-temurin-17: registry.cn-shanghai.aliyuncs.com/all_lib/maven
 
-#docker.io/library/eclipse-temurin:17.0.8.1_1-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
+docker.io/library/eclipse-temurin:17.0.10_7-jdk-jammy,21.0.2_13-jdk-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
 
 #docker.io/library/nginx:1.23.3-alpine-slim: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
 
@@ -17,7 +17,7 @@
 
 #docker.io/library/gradle:8.2.0-jdk17-jammy: registry.cn-shanghai.aliyuncs.com/all_lib/gradle
 
-#docker.io/library/python:3.10.12-slim-bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/python
+docker.io/library/python:3.9-bookworm: registry.cn-shanghai.aliyuncs.com/all_lib/python
 
 #docker.io/library/golang:1.20.7-alpine3.18: registry.cn-shanghai.aliyuncs.com/all_lib/golang
 
@@ -27,6 +27,6 @@
 
 #docker.io/xhofe/alist-aria2: registry.cn-shanghai.aliyuncs.com/all_lib/alist-aria2
 
-docker.io/minio/minio:RELEASE.2024-01-18T22-51-28Z: registry.cn-shanghai.aliyuncs.com/all_lib/minio
+#docker.io/minio/minio:RELEASE.2024-01-18T22-51-28Z: registry.cn-shanghai.aliyuncs.com/all_lib/minio
 
-docker.io/sonatype/nexus3:3.64.0: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
+#docker.io/sonatype/nexus3:3.64.0: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
