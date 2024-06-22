@@ -70,4 +70,4 @@ docker.io/kubesphere/kube-events-ruler:v0.4.0: registry.cn-shanghai.aliyuncs.com
 
 docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
 
-docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
+
