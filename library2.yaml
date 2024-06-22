@@ -69,5 +69,7 @@ docker.io/jimmidyson/configmap-reload:v0.5.0: registry.cn-shanghai.aliyuncs.com/
 docker.io/kubesphere/kube-events-ruler:v0.4.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-events-ruler
 
 
+docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
+
 
 docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
