@@ -36,22 +36,31 @@
 
 ####  rancher  k3s
 
-docker.io/rancher/klipper-helm: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-klipper-helm
+#docker.io/rancher/klipper-helm: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-klipper-helm
 
-docker.io/rancher/klipper-lb: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-klipper-lb
+#docker.io/rancher/klipper-lb: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-klipper-lb
 
-docker.io/rancher/local-path-provisioner: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-local-path-provisioner
+#docker.io/rancher/local-path-provisioner: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-local-path-provisioner
 
-docker.io/rancher/mirrored-coredns-coredns: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-coredns-coredns
+#docker.io/rancher/mirrored-coredns-coredns: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-coredns-coredns
 
-docker.io/rancher/mirrored-library-busybox: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-library-busybox
+#docker.io/rancher/mirrored-library-busybox: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-library-busybox
 
-docker.io/rancher/mirrored-library-traefik: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-library-traefik
+#docker.io/rancher/mirrored-library-traefik: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-library-traefik
 
-docker.io/rancher/mirrored-metrics-server: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-metrics-server
+#docker.io/rancher/mirrored-metrics-server: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-metrics-server
 
-docker.io/rancher/mirrored-pause: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-pause
+#docker.io/rancher/mirrored-pause: registry.cn-shanghai.aliyuncs.com/all_lib/rancher-mirrored-pause
 
 
 
+##### kubesphere
+
+docker.io/kubesphere/ks-installer: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-installer
+
+docker.io/kubesphere/ks-console: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-console
+
+docker.io/kubesphere/ks-controller-manager: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-controller-manager
+
+docker.io/kubesphere/ks-apiserver: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-apiserver
 
