@@ -9,7 +9,7 @@ jobs:
   checkin:
     runs-on: ubuntu-latest
     steps:
-      - uses: yanglbme/cordcloud-action@main
+      - uses: yanglbme/cordcloud-action@b6f2cc392ea578366e334509ce7b6b0877eda2ff
         with:
           email: ${{ secrets.CC_EMAIL }}
           passwd: ${{ secrets.CC_PASSWD }}
