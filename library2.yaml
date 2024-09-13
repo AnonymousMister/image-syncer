@@ -11,7 +11,7 @@
 
 #docker.io/nacos/nacos-server:v2.2.3: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 
-#docker.io/gitlab/gitlab-ce:16.3.4-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
+docker.io/gitlab/gitlab-ce:16.3.4-ce.0,16.3.8-ce.0,16.7.9-ce.0,16.11.9-ce.0,17.3.2-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 
 #docker.io/adguard/adguardhome:v0.108.0-b.47: registry.cn-shanghai.aliyuncs.com/all_lib/adguardhome
 
@@ -56,20 +56,20 @@
 
 ##### kubesphere
 
-docker.io/kubesphere/ks-installer:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-installer
+#docker.io/kubesphere/ks-installer:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-installer
 
-docker.io/kubesphere/ks-console:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-console
+#docker.io/kubesphere/ks-console:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-console
 
-docker.io/kubesphere/ks-controller-manager:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-controller-manager
+#docker.io/kubesphere/ks-controller-manager:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-controller-manager
 
-docker.io/kubesphere/ks-apiserver:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-apiserver
+#docker.io/kubesphere/ks-apiserver:v3.3.1: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-ks-apiserver
 
-docker.io/jimmidyson/configmap-reload:v0.5.0: registry.cn-shanghai.aliyuncs.com/all_lib/jimmidyson-configmap-reload
+#docker.io/jimmidyson/configmap-reload:v0.5.0: registry.cn-shanghai.aliyuncs.com/all_lib/jimmidyson-configmap-reload
 
-docker.io/kubesphere/kube-events-ruler:v0.4.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-events-ruler
-
-
-docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
+#docker.io/kubesphere/kube-events-ruler:v0.4.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-events-ruler
 
 
-docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
+#docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
+
+
+#docker.io/kubesphere/kube-auditing-webhook:v0.2.0: registry.cn-shanghai.aliyuncs.com/all_lib/kubesphere-kube-auditing-webhook
