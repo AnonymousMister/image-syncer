@@ -9,11 +9,11 @@
 
 #docker.io/library/node:14.21.3-buster: registry.cn-shanghai.aliyuncs.com/all_lib/node
 
-#docker.io/nacos/nacos-server:v2.2.3: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
+docker.io/nacos/nacos-server:v2.4.3: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 
 #docker.io/gitlab/gitlab-ce:16.3.4-ce.0,16.3.8-ce.0,16.7.9-ce.0,16.11.9-ce.0,17.3.2-ce.0: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 
-docker.io/womsxd/mihoyo-bbs: registry.cn-shanghai.aliyuncs.com/all_lib/mihoyo-bbs
+#docker.io/womsxd/mihoyo-bbs: registry.cn-shanghai.aliyuncs.com/all_lib/mihoyo-bbs
 
 #docker.io/adguard/adguardhome:v0.108.0-b.47: registry.cn-shanghai.aliyuncs.com/all_lib/adguardhome
 
