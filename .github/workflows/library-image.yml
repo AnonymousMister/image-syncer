@@ -18,10 +18,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: initialization
+      - name: 初始化
         uses: actions/checkout@v2
 
-      - name: synchronous_mirroring
+      - name: 开始同步
         uses: hhyasdf/image-sync-action@v1.1
         with:
           auth_file: ./auth.json # The auth information file of registries, optional.
