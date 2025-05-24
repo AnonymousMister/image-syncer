@@ -1,7 +1,0 @@
-registry.cn-hangzhou.aliyuncs.com:
-    username: ${AI_USER_NAME}
-    password: ${AI_USER_PASSWORD}
-
-registry.cn-shanghai.aliyuncs.com:
-    username: ${AI_USER_NAME}
-     password: ${AI_USER_PASSWORD}
