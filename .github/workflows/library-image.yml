@@ -4,9 +4,9 @@ name: library-image
 
 # Controls when the action will run.
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -18,10 +18,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: 初始化
+      - name: initialization
       - uses: actions/checkout@v2
 
-      - name: 同步镜像
+      - name: synchronous_mirroring
       - uses: hhyasdf/image-sync-action@v1.1
         with:
           auth_file: ./auth.json # The auth information file of registries, optional.
