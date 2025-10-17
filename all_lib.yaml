@@ -1,9 +1,9 @@
-docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
+#docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 docker.io/library/redis:/^(7.*|6.*|8.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/redis
-docker.io/library/eclipse-temurin:/^(17.*|8.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
-docker.io/library/maven:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/maven
-docker.io/library/nginx:/^(1.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
-docker.io/library/node:/^(22.*|14.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/node
-docker.io/gitlab/gitlab-ce:/^(17.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
-docker.io/minio/minio:/^(RELEASE.2025.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/minio
-docker.io/sonatype/nexus3:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
+#docker.io/library/eclipse-temurin:/^(17.*|8.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
+#docker.io/library/maven:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/maven
+#docker.io/library/nginx:/^(1.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/nginx
+#docker.io/library/node:/^(22.*|14.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/node
+#docker.io/gitlab/gitlab-ce:/^(17.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
+#docker.io/minio/minio:/^(RELEASE.2025.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/minio
+#docker.io/sonatype/nexus3:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
