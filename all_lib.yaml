@@ -7,4 +7,6 @@
 #docker.io/gitlab/gitlab-ce:/^(17.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/gitlab-ce
 #docker.io/minio/minio:/^(RELEASE.2025.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/minio
 #docker.io/sonatype/nexus3:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
-docker.io/pingcap/tidb: registry.cn-shanghai.aliyuncs.com/all_lib/tidb
+#docker.io/pingcap/tidb: registry.cn-shanghai.aliyuncs.com/all_lib/tidb
+docker.io/library/maven:3.9.11-eclipse-temurin-17-noble: registry.cn-shanghai.aliyuncs.com/all_lib/maven
+
