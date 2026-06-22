@@ -1,4 +1,4 @@
-#docker.io/nacos/nacos-server: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
+docker.io/nacos/nacos-server:v2.4.0: registry.cn-shanghai.aliyuncs.com/all_lib/nacos-server
 #docker.io/library/redis:/^(7.*|6.*|8.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/redis
 #docker.io/library/eclipse-temurin:/^(17.*|8.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/eclipse-temurin
 #docker.io/library/maven:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/maven
@@ -9,5 +9,5 @@
 #docker.io/sonatype/nexus3:/^(3.*|latest)$/: registry.cn-shanghai.aliyuncs.com/all_lib/sonatype-nexus3
 #docker.io/pingcap/tidb: registry.cn-shanghai.aliyuncs.com/all_lib/tidb
 #docker.io/library/maven:3.9.11-eclipse-temurin-17-noble: registry.cn-shanghai.aliyuncs.com/all_lib/maven
-mcr.microsoft.com/devcontainers/base:bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/devcontainers-base
+#mcr.microsoft.com/devcontainers/base:bullseye: registry.cn-shanghai.aliyuncs.com/all_lib/devcontainers-base
 
